@@ -1,8 +1,0 @@
-dsrpsp500/
-├── README.md
-├── sp500_project_cleaned.ipynb
-└── data/
-    ├── raw/
-    │   └── sp500.csv
-    └── processed/
-        └── sp500_cleaned.csv
