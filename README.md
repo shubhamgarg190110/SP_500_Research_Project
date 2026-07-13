@@ -1,4 +1,4 @@
-# S&P 500 Historical Data Cleaning Project
+# DSRP S&P 500 Project
 
 This repository contains the data-cleaning portion of an S&P 500 historical research project.
 
